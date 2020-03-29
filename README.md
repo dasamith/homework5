@@ -69,7 +69,8 @@ tools: (to be used):
 https://dasamith.github.io/homework5/
 
 ## Screenshot
-[![Alt text](screenshot\sc.jpg)]
+
+![Screenshot](screenshot/sc.jpg)
 
 ## API Reference
 
