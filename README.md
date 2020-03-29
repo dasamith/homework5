@@ -4,13 +4,14 @@
 I Created a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 I used the [Moment.js](https://momentjs.com/) library to work with date and time by using Moment.js in the browser.
 
-## Motivation
+
+
+## Acceptance Criteria
 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively.
 
-## Acceptance Criteria
 
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
@@ -33,8 +34,7 @@ Build status of continus integratio
 tools: (to be used):
     1. jenkins
     2. heroku
-    3. gitHub 
-
+    
 [![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
@@ -44,7 +44,7 @@ tools: (to be used):
 
 
 ## Tech/framework used
-not decided 
+    node.js
 
 ## Features
 
@@ -65,12 +65,16 @@ not decided
     7. Kept the code simple.
 
 ## Installation
-soon to be covered....
-https://dasamith.github.io/homework2/
+
+https://dasamith.github.io/homework5/
+
+## Screenshot
+
+![Alt text](\screenshot\sc.jpg?raw=true "Optional Title")
 
 ## API Reference
 
-API not yet used
+https://momentjs.com/
 
 ## Tests
 project still in development phase
