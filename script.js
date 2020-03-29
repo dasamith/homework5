@@ -34,3 +34,4 @@ function output() {
     localStorage.setItem("evnt", evntFinal);
     renderLastRegistered();
 }
+
