@@ -70,7 +70,7 @@ https://dasamith.github.io/homework5/
 
 ## Screenshot
 
-![Alt text](\screenshot\sc.jpg?raw=true "Optional Title")
+![Alt text](\\screenshot\sc.jpg?raw=true "Optional Title")
 
 ## API Reference
 
